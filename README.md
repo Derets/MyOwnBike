@@ -1,7 +1,7 @@
 <h1 align="center">MyOwnBike</h1>
 <h3 align="center">My first website</h3>
 
-<p>This site was made on 10.2022 in pure html without using any libraries and was my result of finishing the 1st year of university.</p>
+<p>This <a href="https://my-own-bike-derets.web.app/">site</a> was made on 10.2022 in pure html without using any libraries and was my result of finishing the 1st year of university.</p>
 <p>Then I first encountered layout. And on such a simple, at first glance, site I spent a month of time <b>(Remember, there was no ChatGPT then)</b></p>
 <h3>Preview:</h3>
 <p>Below will be shown a list of illustrations, where you can see the result of the work on animations and site logic.</p>
